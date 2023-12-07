@@ -25,7 +25,7 @@
     <img src="https://img.icons8.com/color/64/000000/git.png" alt="Git" width="40" height="40"/>
   </a>
  
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+  <a href="https://github.com" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/64/000000/github.png" alt="GitHub" width="40" height="40"/>
   </a> </p>
 
