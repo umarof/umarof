@@ -3,13 +3,6 @@
 <h3 align="center">A passionate Android Developer.</h3>
 
 
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umarof&label=Profile%20views&color=0e75b6&style=flat" alt="umarof" /> </p>
-
-<p align="left"> <a href="https://twitter.com/@umarof7" target="blank"><img src="https://img.shields.io/twitter/follow/@umarof7?logo=twitter&style=for-the-badge" alt="@umarof7" /></a> </p>
-
 - 🌱 I’m currently learning **Android Development.**
 
 - 💬 Ask me about **Java**, and **Kotlin.**
